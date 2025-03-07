@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l+pYGsMhPEg7Q3qsK/8iqkvgPBzuUDBeEmVP/Q7zFvo=",
+  "Source": "angular-app-backend",
+  "BasePath": "_content/angular-app-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

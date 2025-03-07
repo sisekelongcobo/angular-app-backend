@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "angular-app-backend/1.0.0": {
+        "runtime": {
+          "angular-app-backend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "angular-app-backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
