@@ -14,4 +14,4 @@ COPY --from=build /out ./
 
 # Expose port 5000 for the application
 EXPOSE 5000
-CMD ["dotnet", "MyWebService.dll"]
+CMD ["dotnet", "angular-app-backend.dll"]
